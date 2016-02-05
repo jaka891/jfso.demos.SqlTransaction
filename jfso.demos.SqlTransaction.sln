@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jfso.demos.SqlTransaction", "jfso.demos.SqlTransaction\jfso.demos.SqlTransaction.csproj", "{0ABA20A1-0441-483F-BD1D-DFD33C4B0EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jfso.demos.SqlTransaction.DAL", "jfso.demos.SqlTransaction.DAL\jfso.demos.SqlTransaction.DAL.csproj", "{7DEFA645-EE24-47AD-A5BA-D0B3A0A6C431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABA20A1-0441-483F-BD1D-DFD33C4B0EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABA20A1-0441-483F-BD1D-DFD33C4B0EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABA20A1-0441-483F-BD1D-DFD33C4B0EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABA20A1-0441-483F-BD1D-DFD33C4B0EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEFA645-EE24-47AD-A5BA-D0B3A0A6C431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEFA645-EE24-47AD-A5BA-D0B3A0A6C431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEFA645-EE24-47AD-A5BA-D0B3A0A6C431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEFA645-EE24-47AD-A5BA-D0B3A0A6C431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
